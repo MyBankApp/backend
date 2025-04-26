@@ -1,0 +1,24 @@
+[submodule "transaction-service"]
+	path = transaction-service
+	url = https://github.com/MyBankApp/transaction-service
+	branch = develop
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/MyBankApp/discovery-service
+	branch = develop
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/MyBankApp/api-gateway
+	branch = develop
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/MyBankApp/notification-service
+	branch = develop
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/MyBankApp/auth-service
+	branch = develop
+[submodule "analytics-service"]
+	path = analytics-service
+	url = https://github.com/MyBankApp/analytics-service
+	branch = develop
