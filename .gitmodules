@@ -14,11 +14,10 @@
 	path = notification-service
 	url = https://github.com/MyBankApp/notification-service
 	branch = develop
-[submodule "auth-service"]
-	path = auth-service
-	url = https://github.com/MyBankApp/auth-service
-	branch = develop
 [submodule "analytics-service"]
 	path = analytics-service
 	url = https://github.com/MyBankApp/analytics-service
 	branch = develop
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/MyBankApp/auth-service
