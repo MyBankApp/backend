@@ -22,3 +22,7 @@
 	path = auth-service
 	url = https://github.com/MyBankApp/auth-service
 	branch = develop
+[submodule "deposit-service"]
+	path = deposit-service
+	url = https://github.com/MyBankApp/deposit-service
+	branch = develop
